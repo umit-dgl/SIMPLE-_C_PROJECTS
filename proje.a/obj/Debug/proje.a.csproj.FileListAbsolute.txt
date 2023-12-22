@@ -1,0 +1,14 @@
+C:\Users\OMEN\source\repos\proje.a\proje.a\bin\Debug\proje.a.exe.config
+C:\Users\OMEN\source\repos\proje.a\proje.a\bin\Debug\proje.a.exe
+C:\Users\OMEN\source\repos\proje.a\proje.a\bin\Debug\proje.a.pdb
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.Form1.resources
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.Properties.Resources.resources
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.csproj.GenerateResource.cache
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.exe
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.pdb
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.soru10.resources
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.soru9.resources
+C:\Users\OMEN\source\repos\proje.a\proje.a\obj\Debug\proje.a.soru11.resources
